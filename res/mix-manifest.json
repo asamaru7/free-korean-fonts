@@ -1,0 +1,16 @@
+{
+    "/.webpack.min.js": "/.webpack.min.js",
+    "/css/post.css": "/css/post.css",
+    "/css/index.css": "/css/index.css",
+    "/css/base.css": "/css/base.css",
+    "/css/amp.css": "/css/amp.css",
+    "/css/policy/privacy.css": "/css/policy/privacy.css",
+    "/css/fonts/base.css": "/css/fonts/base.css",
+    "/css/archives/base.css": "/css/archives/base.css",
+    "/css/common/github-syntax.css": "/css/common/github-syntax.css",
+    "/css/common/github-markdown.css": "/css/common/github-markdown.css",
+    "/js/common/disable-form-auto-zoom.js": "/js/common/disable-form-auto-zoom.js",
+    "/js/common/sidebar.js": "/js/common/sidebar.js",
+    "/js/common/ad.slots.js": "/js/common/ad.slots.js",
+    "/js/libs/slideout.min.js": "/js/libs/slideout.min.js"
+}
