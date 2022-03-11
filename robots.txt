@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
 
+#DaumWebMasterTool:300cb808f9fc152344feb7f4b4ec8197fbfd774af32dbc5982b4a95001e56b4f:0/Lzlpxp6uKIPgX3sP1bPg==
+
 Sitemap: https://fonts.asamaru.net/sitemap.xml
