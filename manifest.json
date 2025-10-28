@@ -1,0 +1,40 @@
+{
+	"name": "글꼴마루",
+	"short_name": "글꼴마루",
+	"description": "저작권 걱정 없는 공개/무료 한글 글꼴 소개 / 미리보기",
+	"start_url": "/",
+	"display": "minimal-ui",
+	"background_color": "#ffffff",
+	"orientation": "portrait",
+	"icons": [
+		{
+			"src": "/img/icon/180.png",
+			"sizes": "180x180",
+			"type": "image/png"
+		},
+		{
+			"src": "/img/icon/76.png",
+			"sizes": "76x76",
+			"type": "image/png"
+		},
+		{
+			"src": "/img/icon/120.png",
+			"sizes": "120x120",
+			"type": "image/png"
+		},
+		{
+			"src": "/img/icon/152.png",
+			"sizes": "152x152",
+			"type": "image/png"
+		},
+		{
+			"src": "/maskable_icon_x512.png",
+			"sizes": "512x512",
+			"type": "image/png",
+			"purpose": "any maskable"
+		}
+	],
+	"lang": "ko-KR",
+	"prefer_related_applications": false,
+	"theme_color": "#71bf44"
+}
